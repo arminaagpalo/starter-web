@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Armina Agpalo -- Application Development Associate -- @ecstasody
 
 # THANKS
 
